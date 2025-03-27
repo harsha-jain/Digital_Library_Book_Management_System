@@ -18,7 +18,7 @@ Ensure you have the following installed:
 
  2. Project Setup
 
- Clone the Repository
+1. Clone the Repository
 
 git clone [https://github.com/harsha-jain/Digital_Library_Book_Management_System.git]
 cd DigitalLibraryBookManagementSystem
@@ -48,7 +48,7 @@ To run the application using Docker, follow these steps:
       docker ps
 
 4. API Endpoints
-🔹 Book Management APIs
+ Book Management APIs
 HTTP Method	Endpoint	Description
 GET	/api/books	Get all books
 GET	/api/books/{id}	Get book by ID
